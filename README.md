@@ -8,7 +8,7 @@ About me
 
 <p align="center">
 
-I have a degree in systems analysis and development. I am passionate about technology who is always willing to work on technologies as diverse as possible. I love exploring new technologies and leveraging them to solve real-life problems. In addition, I also love connecting with people. I'm currently studying Javascript, agile methodology and how to work with cloud systems.
+Sou formado em análise e desenvolvimento de sistemas. Sou um apaixonado por tecnologia que está sempre disposto a trabalhar nas tecnologias mais diversas possíveis. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real. Além disso, também adoro me conectar com as pessoas. Atualmente estou estudando Javascript, metodologia ágil e como trabalhar com sistemas em nuvem.
 <p />
 <br>
 
