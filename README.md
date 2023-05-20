@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hi friends, I'm Vinicius!
+  Olá, eu sou o Vinicius 👋
 </h1>
 
 <p align="center">
-About me
+Srobre Mim
 <p />
 
 <p align="center">
@@ -24,7 +24,7 @@ const Vinicius = {
 
 ```
 
-<h2 align="center"><img src="https://img.icons8.com/external-anggara-filled-outline-anggara-putra/48/null/external-loss-business-and-finance-anggara-filled-outline-anggara-putra.png"/> Github stats</h2>
+<h2 align="center"><img src="https://img.icons8.com/external-anggara-filled-outline-anggara-putra/48/null/external-loss-business-and-finance-anggara-filled-outline-anggara-putra.png"/>Github Estatística</h2>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=v-carvalho&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=v-carvalho&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=v-carvalho&theme=nord_dark) |
 | :-: | :-: | :-: |
@@ -34,7 +34,7 @@ const Vinicius = {
 
 
 <h2 align="center">
-<img src="https://img.icons8.com/office/40/000000/new-contact.png"/> Contact me 
+<img src="https://img.icons8.com/office/40/000000/new-contact.png"/> Meus Contatos
 <h2 />
 
 <p align="center">   
