@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Srobre Mim
+Sobre Mim
 <p />
 
 <p align="center">
