@@ -18,7 +18,7 @@ const Vinicius = {
   age: 38,
   likes: [videogame, technology, movies],
   code: [Javascript, HTML, CSS, Dart],
-  tools: [React, Node, Flutter, Mobile, N8N, Docker],
+  tools: [React, React Native, Flutter, Mobile, Node, N8N, Docker],
   certifications: [AWS, Azure, Linux]
 }
 
