@@ -15,7 +15,7 @@ Sou formado em análise e desenvolvimento de sistemas. Sou um apaixonado por tec
 ```javascript
 const Vinicius = {
   from: "Brazil",
-  age: 38,
+  age: 39,
   likes: [videogame, technology, movies],
   code: [Javascript, HTML, CSS, Dart],
   tools: [React, React Native, Flutter, Mobile, Node, N8N, Docker],
